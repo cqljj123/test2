@@ -1,0 +1,22 @@
+﻿Build started 2014/10/17 9:59:43.
+     1>Project "D:\MYCCODE\calc\mymicro\mymicro.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\mymicro.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt mymicro.cpp
+         mymicro.cpp
+     1>mymicro.cpp(310): warning C4101: '_type' : unreferenced local variable
+     1>mymicro.cpp(584): warning C4018: '<' : signed/unsigned mismatch
+     1>mymicro.cpp(604): warning C4018: '<' : signed/unsigned mismatch
+     1>mymicro.cpp(629): warning C4018: '<' : signed/unsigned mismatch
+     1>mymicro.cpp(664): warning C4101: 'tp' : unreferenced local variable
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MYCCODE\calc\Release\mymicro.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MYCCODE\calc\Release\mymicro.pdb" /SUBSYSTEM:CONSOLE,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MYCCODE\calc\Release\mymicro.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\mymicro.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         mymicro.vcxproj -> D:\MYCCODE\calc\Release\mymicro.exe
+     1>Done Building Project "D:\MYCCODE\calc\mymicro\mymicro.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.02

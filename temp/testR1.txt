@@ -1,0 +1,3 @@
+log(log(2,4),sum(1,4))
+log(lg(100),sum(1,4))
+sin(sum(1,log(2,cos(0))))

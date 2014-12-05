@@ -1,0 +1,60 @@
+sin(12.234.554)
+tan(.12)
+cos(12.)
+sin(.)
+log(1..,12)
+log(log(2,4),sum(1,4))
+log(lg(100),sum(1,4))
+log(1/0,4)
+log(sum(1,0),0)
+lg(0)
+lg(10)
+ln(3)
+floor(4.5)
+tanh(30)
+sinh(40)
+cosh(30)
+tan(sin(30)
+tan(45)
+cos(60)
+cos(30)
+sum(log(2,4),5)
+sum(1)
+sum(1,2)
+sin(1,2)
+((2))
+(1)
+()
+()()()
+())
+sin(1,
+,,
+1!2
+34 * ( 67 + 23 ) ) 
+1+pow(2,pow(3,2))
+sin(90
+9 / 0
+sin
+pow((-)1,2)
+lnsin90
+pow(1,2)
+ln 2.7182818 * ( 34 * ( 26 - 25 ) ) * sin 30
+3!
+56 ^ 2 * 90
+sin 30 * ( -5 + 6 ) 
+( 2 + 1 ) !
+( ( 0 + 90 ) 
+-9+10
+9+-8
+lnsin-90
+sin(-9)
+sin(10+-9)
+sin10!+-9
+pow(1,2)
+1+pow(2,pow(3,2))
+sum(2+5,sin(30))
+lnln
+sin(sum(1,log(2,cos(0))))
+yes
+-
+(sum(sin(30)))

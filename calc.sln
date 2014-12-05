@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calc1", "temp\temp.vcxproj", "{DA6944D3-B717-4DA4-986B-AC914AF720BB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calc2", "calc2\calc2.vcxproj", "{D13E9EE7-AA0C-4D85-BF6F-776A18451D09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mymicro", "mymicro\mymicro.vcxproj", "{1B6F5E62-EB57-4766-B50F-81F7EFF4C686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6944D3-B717-4DA4-986B-AC914AF720BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA6944D3-B717-4DA4-986B-AC914AF720BB}.Debug|Win32.Build.0 = Debug|Win32
+		{DA6944D3-B717-4DA4-986B-AC914AF720BB}.Release|Win32.ActiveCfg = Release|Win32
+		{DA6944D3-B717-4DA4-986B-AC914AF720BB}.Release|Win32.Build.0 = Release|Win32
+		{D13E9EE7-AA0C-4D85-BF6F-776A18451D09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D13E9EE7-AA0C-4D85-BF6F-776A18451D09}.Debug|Win32.Build.0 = Debug|Win32
+		{D13E9EE7-AA0C-4D85-BF6F-776A18451D09}.Release|Win32.ActiveCfg = Release|Win32
+		{D13E9EE7-AA0C-4D85-BF6F-776A18451D09}.Release|Win32.Build.0 = Release|Win32
+		{1B6F5E62-EB57-4766-B50F-81F7EFF4C686}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B6F5E62-EB57-4766-B50F-81F7EFF4C686}.Debug|Win32.Build.0 = Debug|Win32
+		{1B6F5E62-EB57-4766-B50F-81F7EFF4C686}.Release|Win32.ActiveCfg = Release|Win32
+		{1B6F5E62-EB57-4766-B50F-81F7EFF4C686}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
